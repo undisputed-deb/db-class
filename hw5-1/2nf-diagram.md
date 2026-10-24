@@ -1,4 +1,4 @@
-# HW5-1 — Question 3: 2NF Relational Schema Design
+# HW5-1  Question 3: 2NF Relational Schema Design
 
 Source: hw5-1 material doc (department / instructor / course)
 
