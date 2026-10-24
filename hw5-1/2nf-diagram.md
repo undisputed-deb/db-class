@@ -41,4 +41,4 @@ erDiagram
 
 ## 2NF Check
 
-All non-key attributes depend on the whole primary key (each table has a single-column PK, no partial dependency possible). `dept_id` in `instructor`/`course` is a foreign key, not part of a composite key — no transitive or partial dependency violations.
+All non-key attributes depend on the whole primary key (each table has a single-column PK, no partial dependency possible). `dept_id` in `instructor`/`course` is a foreign key, not part of a composite key  no transitive or partial dependency violations.
